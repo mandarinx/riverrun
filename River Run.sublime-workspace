@@ -1,0 +1,1565 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coor",
+				"coords"
+			],
+			[
+				"coo",
+				"coords"
+			],
+			[
+				"D",
+				"Distance	a, b"
+			],
+			[
+				"pos",
+				"positioner"
+			],
+			[
+				"la",
+				"labelPadding"
+			],
+			[
+				"lab",
+				"labelWidth"
+			],
+			[
+				"Ran",
+				"Randomize"
+			],
+			[
+				"heal",
+				"healthLabel"
+			],
+			[
+				"Three",
+				"ThreeOne"
+			],
+			[
+				"Ent",
+				"EnitytDiedInBattle"
+			],
+			[
+				"Cr",
+				"CreateConfig"
+			],
+			[
+				"att",
+				"attacker"
+			],
+			[
+				"ene",
+				"enemy"
+			],
+			[
+				"Show",
+				"ShowFightUI"
+			],
+			[
+				"SetT",
+				"SetTransition"
+			],
+			[
+				"Start",
+				"StartFighting"
+			],
+			[
+				"Fight",
+				"FightingState"
+			],
+			[
+				"Figh",
+				"FightingState"
+			],
+			[
+				"other",
+				"otherIF"
+			],
+			[
+				"Enti",
+				"Entity"
+			],
+			[
+				"OnCli",
+				"OnClickedGround"
+			],
+			[
+				"Input",
+				"InputHandler"
+			],
+			[
+				"Inpu",
+				"InputHandler"
+			],
+			[
+				"SetM",
+				"SetMeshByIndex"
+			],
+			[
+				"Bec",
+				"BecameInvisible"
+			],
+			[
+				"pref",
+				"prefPool"
+			],
+			[
+				"pool",
+				"pools"
+			],
+			[
+				"spaw",
+				"spawnConfig"
+			],
+			[
+				"tota",
+				"totalWeight"
+			],
+			[
+				"ent",
+				"entBehaviour"
+			],
+			[
+				"pre",
+				"preload"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"De",
+				"Despawn"
+			],
+			[
+				"prefabP",
+				"prefabPool"
+			],
+			[
+				"Spawn",
+				"SpawnPool"
+			],
+			[
+				"Tra",
+				"Transform"
+			],
+			[
+				"Create",
+				"CreatePrefabPool"
+			],
+			[
+				"Cre",
+				"CreatePrefabPool"
+			],
+			[
+				"Loo",
+				"LootController"
+			],
+			[
+				"ch",
+				"checkDistTime"
+			],
+			[
+				"base",
+				"baseHealth"
+			],
+			[
+				"Up",
+				"UpdateUI"
+			],
+			[
+				"Player",
+				"PlayerAtSpaceship"
+			],
+			[
+				"pct",
+				"pctUpper"
+			],
+			[
+				"tot",
+				"totalWeight"
+			],
+			[
+				"mesh",
+				"meshFilter"
+			],
+			[
+				"amou",
+				"amountMin"
+			],
+			[
+				"amo",
+				"amountMin"
+			],
+			[
+				"pc",
+				"pctUpper"
+			],
+			[
+				"poo",
+				"poolSize"
+			],
+			[
+				"Ins",
+				"Instance"
+			],
+			[
+				"day",
+				"dayCounterLabel"
+			],
+			[
+				"Entity",
+				"EntityBehaviour"
+			],
+			[
+				"stat",
+				"stationUI"
+			],
+			[
+				"OnE",
+				"OnExitSpaceStation"
+			],
+			[
+				"Chara",
+				"Character"
+			],
+			[
+				"Char",
+				"Character"
+			],
+			[
+				"hig",
+				"highlightColor"
+			],
+			[
+				"char",
+				"characters"
+			],
+			[
+				"high",
+				"Highlight"
+			],
+			[
+				"butt",
+				"buttonScientist"
+			],
+			[
+				"enti",
+				"entityConfig"
+			],
+			[
+				"Anim",
+				"AnimalBehaviour"
+			],
+			[
+				"type",
+				"typeString"
+			],
+			[
+				"Clear",
+				"ClearListeners"
+			],
+			[
+				"at",
+				"attEnt"
+			],
+			[
+				"iden",
+				"identifyEnemies"
+			],
+			[
+				"vic",
+				"victim"
+			],
+			[
+				"Animal",
+				"AnimalBehaviour"
+			],
+			[
+				"boo",
+				"boolValue"
+			],
+			[
+				"prop",
+				"propName"
+			],
+			[
+				"Seri",
+				"SerializedProperty"
+			],
+			[
+				"Sc",
+				"ScriptableObject"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"Seriali",
+				"SerializedPropertyType"
+			],
+			[
+				"Entit",
+				"Entity"
+			],
+			[
+				"En",
+				"EntityPool"
+			],
+			[
+				"per",
+				"personalSpace"
+			],
+			[
+				"fri",
+				"friendly"
+			],
+			[
+				"hit",
+				"hitPoints"
+			],
+			[
+				"he",
+				"health"
+			],
+			[
+				"st",
+				"statsUI"
+			],
+			[
+				"pan",
+				"panelType"
+			],
+			[
+				"otio",
+				"options"
+			],
+			[
+				"way",
+				"waypoint"
+			],
+			[
+				"Navm",
+				"NavMeshHit"
+			],
+			[
+				"NavM",
+				"NavMeshHit"
+			],
+			[
+				"navM",
+				"NavMeshHit"
+			],
+			[
+				"nav",
+				"navHit"
+			],
+			[
+				"Fin",
+				"FindPointOnNavMesh"
+			],
+			[
+				"Rayc",
+				"RaycastHit"
+			],
+			[
+				"GetCom",
+				"GetComponent	type"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"State",
+				"StateID"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"Trans",
+				"Transition"
+			],
+			[
+				"Tran",
+				"Transition"
+			],
+			[
+				"Tr",
+				"Transition"
+			],
+			[
+				"age",
+				"agentDest"
+			],
+			[
+				"rem",
+				"remainingDistance"
+			],
+			[
+				"walk",
+				"walkState"
+			],
+			[
+				"Nav",
+				"NavMeshPath"
+			],
+			[
+				"ad",
+				"addMoreWaypoints"
+			],
+			[
+				"Find",
+				"FindWaypoint"
+			],
+			[
+				"cur",
+				"curAngle"
+			],
+			[
+				"w",
+				"waypoint"
+			],
+			[
+				"Way",
+				"WaypointsOptions"
+			],
+			[
+				"got",
+				"gotWaypoint"
+			],
+			[
+				"ran",
+				"rangePadding"
+			],
+			[
+				"Next",
+				"NextWaypoint"
+			],
+			[
+				"transfor",
+				"Transform"
+			],
+			[
+				"label",
+				"labelHeight"
+			],
+			[
+				"labe",
+				"labelHeight"
+			],
+			[
+				"thr",
+				"threatened"
+			],
+			[
+				"thre",
+				"threatened"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"the",
+				"threatLevel"
+			],
+			[
+				"Sense",
+				"SensePresenceOptions"
+			],
+			[
+				"Walking",
+				"WalkingOptions"
+			],
+			[
+				"Calc",
+				"CalculatePathOptions"
+			],
+			[
+				"Add",
+				"AddStates"
+			],
+			[
+				"OnB",
+				"OnBecameInvisible	void"
+			],
+			[
+				"red",
+				"reduceRate"
+			],
+			[
+				"sec",
+				"secondsToThreat"
+			],
+			[
+				"time",
+				"timeToThreat"
+			],
+			[
+				"p",
+				"personalSpace"
+			],
+			[
+				"Ontr",
+				"OnTriggerExit	other"
+			],
+			[
+				"Ontrigger",
+				"OnTriggerEnter	other"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 660.0
+	},
+	"console":
+	{
+		"height": 127.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/PositionerInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerAtSpaceship.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Tests/Music mixer/MinMaxSliderDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/CharacterDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/SegmentDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/MinMaxDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/AreaSpawnerDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/ThreatLevelDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/CorePropertyDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/DayNight.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Tests/Music mixer/MinMaxSliderAttribute.cs",
+		"/Users/mandarin/Projects/_experiments/generator-phaser-simple/templates/index.js",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/PlantController.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/LootController.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Data/Config.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/Character.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/ResourceController.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/BattleController.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/PivotScaleInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Utilities/Positioner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/AnimalController.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Spawner/AreaSpawner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/SpaceshipBehaviour.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/WaypointsDebugger.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/Waypoints.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/Animal.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/AnimalBehaviour.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Editor/WaterShaderGUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Core/Properties.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/SpaceStationUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/CharacterManager.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Core/Attributes/MinMaxAttribute.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Master.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/StateOptions.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/FindMissingComponentRefs.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Controller.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Core/Proxy.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/FSMTransitionsAndStates.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/FSMSystem.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/FSMState.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/SetAgentDestination.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/SensePresence.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/Player.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/Idle.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/AnimalIdle.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Interfaces/IFightable.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/EntityBehaviour.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerDiedInBattle.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/Plant.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/InBattle.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/FightUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/UI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/ResourceBehaviour.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Raycasters/Editor/CircleCastInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/EntityDiedInBattle.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/EntityType.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/Entity.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/ResourceDetector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/Resource.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/EnitytDiedInBattle.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/FightController.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/Walking.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/TakeABreak.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Interfaces/IClickable.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/PlayerStatsUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/Fighting.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/InputHandler.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/FightingAI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/EnergyStationUI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/Spaceship.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Raycasters/RayCaster.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/PlayerCollisions.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Pooltest.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/EntitySpawnConfig.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/ScriptableObjectCreator.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/EntityKiller.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Plugins/PathologicalGames/PoolManager/SpawnPool.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/EnergyStation.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/ThreatLevel.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/AnimalBehaviourInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Traveller.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/AnimalDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/AI/AnimalAI.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/UIPanel.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/AnimalAIDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/PlayerInventory.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Playa/FuelCell.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Utility/PivotScale.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/Agent.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/PanelType.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/EnergyStations.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/CreatePlane.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/VertexColor.shader",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Minimap.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/DayNightInspector.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/PanelSwitcher.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Positioner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/CharacterManagerDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Sheets/CharacterSheet.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Data/Animal.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Data/Entity.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Characters/Character.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/UIDrawer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/CharacterController.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Characters/CharacterManager.cs",
+		"/Users/mandarin/Clients/DigiPilot/Pilot/MarkusPilot/Assets/Editor/SceneTools.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/EntityPool.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Raycasters/CircleCast.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Spawner/HeightSpawner.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/ListManager.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/EntityBehaviour.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Interfaces/IEntity.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerFighting.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/Fight.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/FogOfWar.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/CalculatePath.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/AI/Waypoints.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerWalking.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerIdle.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/AI/WaypointCalculator.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Core/TriggerProxy.cs",
+		"/Users/mandarin/Desktop/heroku_app30040480-players",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/FogOfWar.shader",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/FogOfWarBlock.shader",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/FogOfWar/FogOfWarPlayer.cs",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/FogOfWarGeom.shader",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/FOW.shader",
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/Hole.shader"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts",
+			"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Scripts",
+			"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts",
+			"/Users/mandarin/Clients/Hyper/Redux Ark/EnergyUsage/Energy usage/Assets/Scripts",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app",
+			"",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/*.styl",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk",
+			"",
+			"/Users/mandarin/Downloads/enhetsregisteret.csv",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/admin/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/wptest/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/",
+			"/Users/mandarin/Clients/Unfold/DNSjakk/dn-sjakk/app/game",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/dn-sjakk/app/game",
+			"gulp-config.json",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/dn-sjakk/app/game",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/dn-sjakk/app/admin",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/app/admin",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/node_modules/react-bootstrap",
+			"/Users/mandarin/Clients/Unfold/DN Sjakk/dn-sjakk/app",
+			"/Users/mandarin/Projects/Games/Mountain King/src/js",
+			"/Users/mandarin/Projects/DigiPilot/Pilot/MarkusPilot/Assets/Scripts/",
+			"/Users/mandarin/Projects/DigiPilot/Pilot/MarkusPilot/Assets/",
+			"/Users/mandarin/Projects/DigiPilot/Pilot/MarkusPilot/Assets/Scripts",
+			"/Users/mandarin/Projects/Games/Princess Hunter/PrincessRepo/Assets/Scripts",
+			"/Users/mandarin/Downloads/broforce/assembly",
+			"Hero.cs",
+			"/Users/mandarin/Downloads/broforce/assembly",
+			"",
+			"/Users/mandarin/Projects/Games/Princess Hunter/PrincessRepo/Assets/Scripts/Dev/MyBezier.cs",
+			"/Users/mandarin/Projects/Games/Princess Hunter/PrincessRepo/Assets/Scripts",
+			"/Users/mandarin/Projects/Hyper/Albert/AlbertRepo/Assets/Scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Vector3",
+			"Positioner",
+			"segSizeLength",
+			"x",
+			"y",
+			"Vector3",
+			"positionerHeight",
+			"attribute",
+			"property",
+			"position",
+			"Two",
+			"oneFloat",
+			"OneOptions",
+			"One",
+			"ThreeOptions",
+			"TwoOptions",
+			"attacker",
+			"BattleOptions",
+			"one",
+			"();",
+			"One",
+			"one",
+			"idle",
+			"one",
+			"One",
+			"idle",
+			"Idle",
+			"pathCalc",
+			"EntityDiedInBattle",
+			"resource",
+			"EnitytDiedInBattle",
+			"entity",
+			"AnimalBehaviour",
+			"EntityBehaviour",
+			"FightController",
+			"add",
+			"other",
+			"enmEnt",
+			"attEnt",
+			"opt",
+			"quitterOption",
+			"enemy",
+			"attackerEntity",
+			"BattleOption",
+			"enemy",
+			"attacker",
+			"enemyOptions",
+			"attackerOption",
+			"enemyBattleState",
+			"FSMState",
+			"options",
+			"attacker",
+			"eneEnt",
+			"vicEnt",
+			"victim",
+			"attacker",
+			"enemy",
+			"FightingOptions",
+			"StartBattle",
+			"attackerFightingState",
+			"FightingState",
+			"fightingState",
+			"Fighting",
+			"FightingState",
+			"fightingState",
+			"Fighting",
+			"FightingDone",
+			"Transition.Flee",
+			".Flee",
+			"StartFighting",
+			"fui",
+			"enemy",
+			"attackerState",
+			"state",
+			"FightController",
+			"ClearListeners",
+			"enemyIF",
+			"otherIF",
+			"FightingAI",
+			"fightState",
+			"fighting",
+			"Fighting",
+			"EntityType",
+			"IFightable",
+			"OnAttack",
+			".Entity",
+			".HitBy(",
+			".Activate()",
+			"gotoEntity",
+			"OnClickedItem",
+			"i",
+			"entityConfig",
+			"e",
+			"i",
+			"entities",
+			"instance",
+			"rb",
+			"ResourceBehaviour",
+			"eb",
+			"EntityBehaviour",
+			"eb",
+			"EntityBehaviour",
+			"p",
+			"pool",
+			"prefab",
+			"prefabRefs",
+			"CreatePrefabPool",
+			"prefabPools",
+			"prefabs",
+			"anim",
+			"Debug",
+			"damageProp",
+			"DayNight",
+			"other",
+			"ai",
+			"f",
+			"name",
+			"GameObject",
+			"TODO:",
+			"ResourceBehaviour",
+			"anim",
+			"AnimalBehaviour",
+			"animal",
+			"config",
+			"extracting",
+			"amount",
+			".Show()",
+			"meshRenderer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"BattleController",
+			"BattleOptions",
+			"EnterBattle",
+			"EnemyQuitBattle",
+			"Transition.FledFromBattle",
+			"StartBattle",
+			",",
+			"'game/gsap'",
+			"\"",
+			"util/",
+			"util/dom",
+			"'manager/weapons'",
+			"manager/groups",
+			"require('manager/explosions",
+			"require('manager/projectiles",
+			"MK",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 102.0
+	},
+	"project": "River Run.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pos",
+				"Editor/PositionerInspector.cs"
+			],
+			[
+				"draw",
+				"Editor/CorePropertyDrawer.cs"
+			],
+			[
+				"minm",
+				"Editor/MinMaxDrawer.cs"
+			],
+			[
+				"posi",
+				"Editor/PositionerInspector.cs"
+			],
+			[
+				"con",
+				"Controllers/PlantController.cs"
+			],
+			[
+				"contr",
+				"Controllers/ResourceController.cs"
+			],
+			[
+				"poi",
+				"Controllers/Utilities/Positioner.cs"
+			],
+			[
+				"animcon",
+				"Controllers/AnimalController.cs"
+			],
+			[
+				"anim",
+				"Controllers/AnimalController.cs"
+			],
+			[
+				"spaw",
+				"Controllers/Spawner/AreaSpawner.cs"
+			],
+			[
+				"way",
+				"WaypointsDebugger.cs"
+			],
+			[
+				"animi",
+				"FSM/States/AnimalIdle.cs"
+			],
+			[
+				"spui",
+				"UI/Panel/SpaceStationUI.cs"
+			],
+			[
+				"chara",
+				"Entities/Character.cs"
+			],
+			[
+				"min",
+				"Editor/MinMaxDrawer.cs"
+			],
+			[
+				"core",
+				"Editor/CorePropertyDrawer.cs"
+			],
+			[
+				"prop",
+				"Core/Properties.cs"
+			],
+			[
+				"seta",
+				"FSM/States/SetAgentDestination.cs"
+			],
+			[
+				"idle",
+				"FSM/States/Idle.cs"
+			],
+			[
+				"fsm",
+				"FSM/FSMSystem.cs"
+			],
+			[
+				"fsms",
+				"FSM/FSMState.cs"
+			],
+			[
+				"ui",
+				"UI/UI.cs"
+			],
+			[
+				"space",
+				"Behaviours/SpaceshipBehaviour.cs"
+			],
+			[
+				"pl",
+				"FSM/States/PlayerAtSpaceship.cs"
+			],
+			[
+				"stid",
+				"FSM/States/Idle.cs"
+			],
+			[
+				"entd",
+				"FSM/States/EntityDiedInBattle.cs"
+			],
+			[
+				"end",
+				"FSM/States/EntityDiedInBattle.cs"
+			],
+			[
+				"ani",
+				"Controllers/AnimalController.cs"
+			],
+			[
+				"res",
+				"Controllers/ResourceController.cs"
+			],
+			[
+				"anc",
+				"Controllers/AnimalController.cs"
+			],
+			[
+				"enb",
+				"Behaviours/EntityBehaviour.cs"
+			],
+			[
+				"entb",
+				"Behaviours/EntityBehaviour.cs"
+			],
+			[
+				"sp",
+				"Behaviours/SpaceshipBehaviour.cs"
+			],
+			[
+				"staop",
+				"FSM/States/StateOptions.cs"
+			],
+			[
+				"fs",
+				"FSM/FSMState.cs"
+			],
+			[
+				"walk",
+				"FSM/States/Walking.cs"
+			],
+			[
+				"fsmsys",
+				"FSM/FSMSystem.cs"
+			],
+			[
+				"fsmst",
+				"FSM/FSMState.cs"
+			],
+			[
+				"st",
+				"FSM/FSMTransitionsAndStates.cs"
+			],
+			[
+				"aniidl",
+				"FSM/States/AnimalIdle.cs"
+			],
+			[
+				"mas",
+				"Controllers/Master.cs"
+			],
+			[
+				"ifi",
+				"Interfaces/IFightable.cs"
+			],
+			[
+				"play",
+				"Playa/Player.cs"
+			],
+			[
+				"sen",
+				"FSM/States/SensePresence.cs"
+			],
+			[
+				"figh",
+				"FSM/States/Fighting.cs"
+			],
+			[
+				"ent",
+				"Entities/EntityType.cs"
+			],
+			[
+				"senp",
+				"FSM/States/SensePresence.cs"
+			],
+			[
+				"anb",
+				"Behaviours/AnimalBehaviour.cs"
+			],
+			[
+				"if",
+				"Interfaces/IFightable.cs"
+			],
+			[
+				"icli",
+				"Interfaces/IClickable.cs"
+			],
+			[
+				"inpu",
+				"Controllers/InputHandler.cs"
+			],
+			[
+				"spa",
+				"Behaviours/Spaceship.cs"
+			],
+			[
+				"resb",
+				"Behaviours/ResourceBehaviour.cs"
+			],
+			[
+				"plac",
+				"Controllers/PlantController.cs"
+			],
+			[
+				"pro",
+				"Core/Proxy.cs"
+			],
+			[
+				"anidl",
+				"FSM/States/AnimalIdle.cs"
+			],
+			[
+				"anbe",
+				"Behaviours/AnimalBehaviour.cs"
+			],
+			[
+				"esp",
+				"Entities/EntitySpawnConfig.cs"
+			],
+			[
+				"entty",
+				"Entities/EntityType.cs"
+			],
+			[
+				"rebe",
+				"Behaviours/ResourceBehaviour.cs"
+			],
+			[
+				"loo",
+				"Controllers/LootController.cs"
+			],
+			[
+				"ancon",
+				"Controllers/AnimalController.cs"
+			],
+			[
+				"sens",
+				"FSM/States/SensePresence.cs"
+			],
+			[
+				"thre",
+				"Behaviours/ThreatLevel.cs"
+			],
+			[
+				"char",
+				"Entities/Character.cs"
+			],
+			[
+				"fig",
+				"UI/Panel/FightUI.cs"
+			],
+			[
+				"animb",
+				"Behaviours/AnimalBehaviour.cs"
+			],
+			[
+				"animai",
+				"Behaviours/AI/AnimalAI.cs"
+			],
+			[
+				"day",
+				"Behaviours/DayNight.cs"
+			],
+			[
+				"fss",
+				"FSM/FSMSystem.cs"
+			],
+			[
+				"fssys",
+				"FSM/FSMSystem.cs"
+			],
+			[
+				"spaces",
+				"UI/Panel/SpaceStationUI.cs"
+			],
+			[
+				"fue",
+				"Playa/FuelCell.cs"
+			],
+			[
+				"anai",
+				"Behaviours/AI/AnimalAI.cs"
+			],
+			[
+				"en",
+				"Entities/Entity.cs"
+			],
+			[
+				"ch",
+				"Entities/Character.cs"
+			],
+			[
+				"chm",
+				"Controllers/CharacterManager.cs"
+			],
+			[
+				"piv",
+				"Utility/PivotScale.cs"
+			],
+			[
+				"pan",
+				"UI/PanelType.cs"
+			],
+			[
+				"pr",
+				"Core/Properties.cs"
+			],
+			[
+				"coll",
+				"Playa/PlayerCollisions.cs"
+			],
+			[
+				"ania",
+				"Behaviours/AI/AnimalAI.cs"
+			],
+			[
+				"cre",
+				"Editor/ScriptableObjectCreator.cs"
+			],
+			[
+				"anicon",
+				"Controllers/AnimalController.cs"
+			],
+			[
+				"pla",
+				"Playa/Player.cs"
+			],
+			[
+				"fight",
+				"UI/Panel/FightUI.cs"
+			],
+			[
+				"fi",
+				"FSM/States/Fighting.cs"
+			],
+			[
+				"cha",
+				"Controllers/CharacterManager.cs"
+			],
+			[
+				"uip",
+				"UI/UIPanel.cs"
+			],
+			[
+				"dayn",
+				"Behaviours/DayNight.cs"
+			],
+			[
+				"panel",
+				"UI/PanelType.cs"
+			],
+			[
+				"panel/",
+				"UI/Panel/EnergyStationUI.cs"
+			],
+			[
+				"stats",
+				"UI/Panel/PlayerStatsUI.cs"
+			],
+			[
+				"mini",
+				"Controllers/Minimap.cs"
+			],
+			[
+				"plainv",
+				"Playa/PlayerInventory.cs"
+			],
+			[
+				"plan",
+				"Behaviours/Plant.cs"
+			],
+			[
+				"set",
+				"FSM/States/SetAgentDestination.cs"
+			],
+			[
+				"anib",
+				"Behaviours/AnimalBehaviour.cs"
+			],
+			[
+				"master",
+				"Controllers/Master.cs"
+			],
+			[
+				"enti",
+				"Entities/Entity.cs"
+			],
+			[
+				"animdr",
+				"Editor/AnimalDrawer.cs"
+			],
+			[
+				"scrip",
+				"Editor/ScriptableObjectCreator.cs"
+			],
+			[
+				"rop",
+				"Core/Properties.cs"
+			],
+			[
+				"mast",
+				"Controllers/Master.cs"
+			],
+			[
+				"fightin",
+				"FSM/States/Fighting.cs"
+			],
+			[
+				"sense",
+				"FSM/States/SensePresence.cs"
+			],
+			[
+				"conf",
+				"Data/Config.cs"
+			],
+			[
+				"circ",
+				"Raycasters/CircleCast.cs"
+			],
+			[
+				"ray",
+				"Raycasters/RayCaster.cs"
+			],
+			[
+				"ien",
+				"Interfaces/IEntity.cs"
+			],
+			[
+				"fightui",
+				"UI/Panel/FightUI.cs"
+			],
+			[
+				"ener",
+				"UI/Panel/EnergyStationUI.cs"
+			],
+			[
+				"pres",
+				"FSM/States/SensePresence.cs"
+			],
+			[
+				"in",
+				"Controllers/InputHandler.cs"
+			],
+			[
+				"tr",
+				"Traveller.cs"
+			],
+			[
+				"debugg",
+				"WaypointsDebugger.cs"
+			],
+			[
+				"fsmsy",
+				"FSM/FSMSystem.cs"
+			],
+			[
+				"idl",
+				"FSM/States/Idle.cs"
+			],
+			[
+				"rayc",
+				"Raycasters/CircleCast.cs"
+			],
+			[
+				"atsp",
+				"FSM/States/PlayerAtSpaceship.cs"
+			],
+			[
+				"state",
+				"FSM/FSMState.cs"
+			],
+			[
+				"cal",
+				"FSM/States/CalculatePath.cs"
+			],
+			[
+				"path",
+				"FSM/States/CalculatePath.cs"
+			],
+			[
+				"ins",
+				"Editor/PositionerInspector.cs"
+			],
+			[
+				"nigh",
+				"Behaviours/DayNight.cs"
+			],
+			[
+				"pivo",
+				"Entities/PivotScale.cs"
+			],
+			[
+				"wal",
+				"FSM/States/PlayerWalking.cs"
+			],
+			[
+				"insp",
+				"Editor/PositionerInspector.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"DoChar",
+				"DoCharge"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

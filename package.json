@@ -1,0 +1,28 @@
+{
+  "name": "riverrun",
+  "version": "0.0.1",
+  "description": "A Phaser game",
+  "main": "./src/main.js",
+  "dependencies": {
+    "phaser": "^2.2.1",
+    "qwest": "^1.5.1"
+  },
+  "devDependencies": {
+    "browserify": "^6.0.0",
+    "node-static": "^0.7.6",
+    "parallelshell": "^1.0.3",
+    "remapify": "^1.4.1",
+    "watch": "^0.13.0"
+  },
+  "scripts": {
+    "build:js": "node browserify.js > ./public/riverrun.js",
+    "watch:js": "watch 'npm run build:js' ./src/",
+    "dev": "parallelshell 'npm run watch:js' 'node index.js'"
+  },
+  "author": "You",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/you/riverrun.git"
+  }
+}
