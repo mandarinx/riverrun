@@ -122,8 +122,6 @@ module.exports.update = function() {
         river_joints[river_joints.length-1].width = river_width;
 
         river_joints.forEach(function(joint) {
-            // joint.y -= speed;
-
             joint.toScreenCoords(game);
             graphics.drawCircle(joint.px, joint.py, joint.width);
         });
