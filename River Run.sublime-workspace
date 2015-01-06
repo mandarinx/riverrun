@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"riv",
+				"river_joints"
+			],
+			[
+				"river",
+				"river_width"
+			],
+			[
+				"po",
+				"point_b"
+			],
+			[
+				"point",
+				"point_a"
+			],
+			[
+				"ri",
+				"river_joints"
+			],
+			[
 				"coor",
 				"coords"
 			],
@@ -494,35 +514,24 @@
 			[
 				"red",
 				"reduceRate"
-			],
-			[
-				"sec",
-				"secondsToThreat"
-			],
-			[
-				"time",
-				"timeToThreat"
-			],
-			[
-				"p",
-				"personalSpace"
-			],
-			[
-				"Ontr",
-				"OnTriggerExit	other"
-			],
-			[
-				"Ontrigger",
-				"OnTriggerEnter	other"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "src/states/game.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 2344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/config.json",
+			"settings":
+			{
+				"buffer_size": 391,
 				"line_ending": "Unix"
 			}
 		}
@@ -585,8 +594,22 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/mandarin/Projects/Games/River Run/riverrun"
+	],
 	"file_history":
 	[
+		"/Users/mandarin/Projects/Games/River Run/riverrun/River Run.sublime-project",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/public/config.json",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/src/transforms/config/tile_settings.js",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/src/transforms/config/tile_index_lookup.js",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/src/transforms/config/tileset_index_range.js",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/src/transforms/config/index.js",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/src/config.js",
+		"/Users/mandarin/Projects/_experiments/generator-phaser-simple/generators/app/index.js",
+		"/Users/mandarin/Projects/_experiments/generator-phaser-simple/generators/stage/index.js",
+		"/Users/mandarin/Projects/_experiments/generator-phaser-simple/templates/index.js",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/PositionerInspector.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerAtSpaceship.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Tests/Music mixer/MinMaxSliderDrawer.cs",
@@ -598,7 +621,6 @@
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Editor/CorePropertyDrawer.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/DayNight.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Tests/Music mixer/MinMaxSliderAttribute.cs",
-		"/Users/mandarin/Projects/_experiments/generator-phaser-simple/templates/index.js",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/PlantController.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/LootController.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Data/Config.cs",
@@ -705,20 +727,11 @@
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/CalculatePath.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/AI/Waypoints.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerWalking.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerIdle.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/AI/WaypointCalculator.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Core/TriggerProxy.cs",
-		"/Users/mandarin/Desktop/heroku_app30040480-players",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/FogOfWar.shader",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/FogOfWarBlock.shader",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/FogOfWar/FogOfWarPlayer.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/FogOfWarGeom.shader",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/FOW.shader",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Shaders/Hole.shader"
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerIdle.cs"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -769,6 +782,15 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"width",
+			"toPixels",
+			"h",
+			"t",
+			"b",
+			"top",
+			"this",
+			"01",
+			"05",
 			"Vector3",
 			"Positioner",
 			"segSizeLength",
@@ -887,16 +909,7 @@
 			"f",
 			"name",
 			"GameObject",
-			"TODO:",
-			"ResourceBehaviour",
-			"anim",
-			"AnimalBehaviour",
-			"animal",
-			"config",
-			"extracting",
-			"amount",
-			".Show()",
-			"meshRenderer"
+			"TODO:"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -936,29 +949,62 @@
 			[
 				{
 					"buffer": 0,
+					"file": "src/states/game.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 2344,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1629,
+								1629
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 639.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1015,6 +1061,14 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"public/config.json"
+			],
+			[
+				"gam",
+				"states/game.js"
+			],
+			[
 				"pos",
 				"Editor/PositionerInspector.cs"
 			],
@@ -1029,10 +1083,6 @@
 			[
 				"posi",
 				"Editor/PositionerInspector.cs"
-			],
-			[
-				"con",
-				"Controllers/PlantController.cs"
 			],
 			[
 				"contr",
@@ -1521,10 +1571,6 @@
 			[
 				"wal",
 				"FSM/States/PlayerWalking.cs"
-			],
-			[
-				"insp",
-				"Editor/PositionerInspector.cs"
 			]
 		],
 		"width": 0.0
