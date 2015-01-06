@@ -11,6 +11,11 @@
     "preload": {
         "bitmapFont": {
             "Boxy-Bold":    ["assets/fonts/boxy_bold_8.png", "assets/fonts/boxy_bold_8.xml"]
+        },
+        "image": {
+            "transparent":  ["assets/transparent.png"],
+            "pink":         ["assets/pink.png"],
+            "grid":         ["assets/grid.png"]
         }
     }
 }
