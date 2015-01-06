@@ -5,6 +5,7 @@
   "main": "./src/main.js",
   "dependencies": {
     "phaser": "^2.2.1",
+    "proc-noise": "0.0.1",
     "qwest": "^1.5.1"
   },
   "devDependencies": {
