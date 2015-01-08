@@ -4,8 +4,24 @@
 		"selected_items":
 		[
 			[
-				"riv",
+				"oc",
+				"octaveCount"
+			],
+			[
+				"ri",
 				"river_joints"
+			],
+			[
+				"he",
+				"head_sprite"
+			],
+			[
+				"head",
+				"head_sprite"
+			],
+			[
+				"riv",
+				"river_width"
 			],
 			[
 				"river",
@@ -18,10 +34,6 @@
 			[
 				"point",
 				"point_a"
-			],
-			[
-				"ri",
-				"river_joints"
 			],
 			[
 				"coor",
@@ -344,10 +356,6 @@
 				"hitPoints"
 			],
 			[
-				"he",
-				"health"
-			],
-			[
 				"st",
 				"statsUI"
 			],
@@ -506,14 +514,6 @@
 			[
 				"Add",
 				"AddStates"
-			],
-			[
-				"OnB",
-				"OnBecameInvisible	void"
-			],
-			[
-				"red",
-				"reduceRate"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "src/states/game.js",
 			"settings":
 			{
-				"buffer_size": 2344,
+				"buffer_size": 2999,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "public/config.json",
 			"settings":
 			{
-				"buffer_size": 391,
+				"buffer_size": 784,
 				"line_ending": "Unix"
 			}
 		}
@@ -600,8 +600,15 @@
 	],
 	"file_history":
 	[
+		"/Users/mandarin/Projects/Games/Dungeon Generator/dungeon-generator/src/states/game.js",
+		"/Users/mandarin/Projects/Games/Dungeon Generator/dungeon-generator/src/generators/dungeon.js",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/package.json",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/public/riverrun.js",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/River Run.sublime-workspace",
 		"/Users/mandarin/Projects/Games/River Run/riverrun/River Run.sublime-project",
+		"/Users/mandarin/Projects/Games/River Run/riverrun/README.md",
 		"/Users/mandarin/Projects/Games/River Run/riverrun/public/config.json",
+		"/Users/mandarin/Projects/Games/Dungeon Generator/dungeon-generator/public/config.json",
 		"/Users/mandarin/Projects/Games/River Run/riverrun/src/transforms/config/tile_settings.js",
 		"/Users/mandarin/Projects/Games/River Run/riverrun/src/transforms/config/tile_index_lookup.js",
 		"/Users/mandarin/Projects/Games/River Run/riverrun/src/transforms/config/tileset_index_range.js",
@@ -720,14 +727,7 @@
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/Spawner/HeightSpawner.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/ListManager.cs",
 		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Entities/EntityBehaviour.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Interfaces/IEntity.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerFighting.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/UI/Panel/Fight.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Controllers/FogOfWar.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/CalculatePath.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Behaviours/AI/Waypoints.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerWalking.cs",
-		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/FSM/States/PlayerIdle.cs"
+		"/Users/mandarin/Clients/Hyper/Redux Ark/git.redux/Assets/Proto1/Scripts/Interfaces/IEntity.cs"
 	],
 	"find":
 	{
@@ -782,6 +782,41 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"grayscale",
+			"overworld",
+			"46",
+			"sprites",
+			"1",
+			"3",
+			"var",
+			"data_string",
+			"row",
+			"river",
+			"offset",
+			"value",
+			"_",
+			"z",
+			"width",
+			"height",
+			"v",
+			"offset",
+			"height",
+			"1",
+			"row",
+			"noise",
+			"i",
+			"yellow",
+			"2",
+			"head_sprite",
+			"game",
+			"5",
+			"log",
+			"005",
+			"head",
+			"3",
+			"12",
+			"joint",
+			"river_width",
 			"width",
 			"toPixels",
 			"h",
@@ -874,42 +909,7 @@
 			"fighting",
 			"Fighting",
 			"EntityType",
-			"IFightable",
-			"OnAttack",
-			".Entity",
-			".HitBy(",
-			".Activate()",
-			"gotoEntity",
-			"OnClickedItem",
-			"i",
-			"entityConfig",
-			"e",
-			"i",
-			"entities",
-			"instance",
-			"rb",
-			"ResourceBehaviour",
-			"eb",
-			"EntityBehaviour",
-			"eb",
-			"EntityBehaviour",
-			"p",
-			"pool",
-			"prefab",
-			"prefabRefs",
-			"CreatePrefabPool",
-			"prefabPools",
-			"prefabs",
-			"anim",
-			"Debug",
-			"damageProp",
-			"DayNight",
-			"other",
-			"ai",
-			"f",
-			"name",
-			"GameObject",
-			"TODO:"
+			"IFightable"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -953,15 +953,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2344,
+						"buffer_size": 2999,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1629,
-								1629
+								987,
+								987
 							]
 						],
 						"settings":
@@ -971,7 +971,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 639.0,
+						"translation.y": 395.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -983,15 +983,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 391,
+						"buffer_size": 784,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16,
-								16
+								640,
+								640
 							]
 						],
 						"settings":

@@ -16,6 +16,8 @@
             "transparent":  ["assets/transparent.png"],
             "pink":         ["assets/pink.png"],
             "grayscale":    ["assets/grayscale.png"],
+            "grass":        ["assets/grass.png"],
+            "water":        ["assets/water.png"],
             "overworld":    ["assets/overworld_1.png"],
             "grid":         ["assets/grid.png"]
         }

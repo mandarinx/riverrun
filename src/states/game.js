@@ -1,3 +1,7 @@
+// NOTE:
+// add rows to the end of the array, but render in reverse so that
+// array[0] renders at the bottom of the screen.
+
 module.exports = new Phaser.State();
 
 var PerlinGenerator = require('proc-noise');
@@ -11,6 +15,7 @@ var width;
 var height;
 var maps = {};
 var cursors = null;
+var rows = [];
 
 module.exports.create = function() {
     var game_config = config.get('game');
@@ -25,18 +30,48 @@ module.exports.create = function() {
     row = gen(row, width, height / 2);
     row = gen(row, width, height / 2);
 
-    loadTilemap(game, {
-        map_name:   'map',
-        data:       riverData(),
-        tileset:    'overworld'
-    });
+    draw(river, width);
+    // loadTilemap(game, {
+    //     map_name:   'map',
+    //     data:       riverData(),
+    //     tileset:    'overworld'
+    // });
 };
 
 module.exports.update = function() {
     if (cursors.up.isDown) {
-
+        rows.forEach(function(row) {
+            row.y += .5;
+        });
     }
 };
+
+function addRow() {
+    rows.push(game.add.group());
+    return rows[rows.length-1];
+}
+
+function draw(tiles, width) {
+    var row = addRow();
+    var x = 0;
+    var y = 0;
+
+    river.forEach(function(tile, i) {
+        if (tile === 0) {
+            row.add(game.add.tileSprite(x*16, y*16, 16, 16, 'grass'));
+        }
+        if (tile === 1) {
+            row.add(game.add.tileSprite(x*16, y*16, 16, 16, 'water'));
+        }
+        x++;
+        // new row
+        if (i % width === 0 && i > 0) {
+            row = addRow();
+            y++;
+            x = 0;
+        }
+    });
+}
 
 function floatFormat(f) {
     return Math.round(f*100)/100;
@@ -49,7 +84,7 @@ function gen(row, width, height) {
         var offset = Math.floor((width - w) * p);
         var str = '';
         for (var x=0; x<width; x++) {
-            var value = x <= offset ? 46 : x >= offset + w ? 46 : 70;
+            var value = x <= offset ? 0 : x >= offset + w ? 0 : 1;
             river.push(value);
             str += value;
         }
